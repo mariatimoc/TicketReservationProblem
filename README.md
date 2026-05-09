@@ -263,10 +263,3 @@ Train IR 100 Updated has a delay of 30 minutes.
 
 ---
 
-
-
-
-
-## Author
-
-Maria Timoc
